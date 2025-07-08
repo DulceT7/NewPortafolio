@@ -1,0 +1,46 @@
+.header { 
+   width: 1440px;
+   height: 60px;
+
+   background-color: lightcyan;
+}
+.t1 {
+   font-size: 18px;
+   margin-right: 50px;
+   font-weight: 400;
+   margin-top: 10px;
+   text-align: center;
+ 
+}
+.t2{
+   font-size: 18px;
+   margin-right: 50px;
+   font-weight: 400;
+   margin-top: 33px;
+   text-align: center;
+ 
+}
+.t3 {
+   font-size: 18px;
+   margin-right: 50px;
+   font-weight: 400;
+   margin-top: 33px;
+   text-align: center;
+ 
+}
+.t4 {
+   font-size: 18px;
+   margin-right: 50px;
+   font-weight: 400;
+   margin-top: 33px;
+   text-align: center;
+ 
+}
+.t5 {
+   font-size: 18px;
+   margin-right: 50px;
+   font-weight: 400;
+   margin-top: 33px;
+   text-align: center;
+ 
+}
